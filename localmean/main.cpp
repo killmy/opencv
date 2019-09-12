@@ -59,6 +59,8 @@ int main()
 
         namedWindow("dst2");
         imshow("dst2",dst2);
+        imwrite("/home/g/learning_cpp/opencv/localmean/2.jpg",dst);
+        imwrite("/home/g/learning_cpp/opencv/localmean/3.jpg",dst2);
         waitKey(0);
         return 0;
 }
