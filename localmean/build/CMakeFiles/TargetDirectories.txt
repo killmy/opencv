@@ -1,0 +1,3 @@
+/home/g/learning_cpp/opencv/localmean/build/CMakeFiles/rebuild_cache.dir
+/home/g/learning_cpp/opencv/localmean/build/CMakeFiles/opencv_example_project.dir
+/home/g/learning_cpp/opencv/localmean/build/CMakeFiles/edit_cache.dir
