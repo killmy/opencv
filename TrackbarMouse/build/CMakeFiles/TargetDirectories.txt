@@ -1,0 +1,3 @@
+/home/g/learning_cpp/opencv/TrackbarMouse/build/CMakeFiles/rebuild_cache.dir
+/home/g/learning_cpp/opencv/TrackbarMouse/build/CMakeFiles/opencv_example.dir
+/home/g/learning_cpp/opencv/TrackbarMouse/build/CMakeFiles/edit_cache.dir
